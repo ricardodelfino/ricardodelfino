@@ -6,9 +6,9 @@ Here you'll find projects from **CS50**, personal coding projects and experiment
 
 ---
 
-## 📂 Featured Projects
+## </> Featured Projects
 
-- **[Week 4 - Recover](./harvard-cs50-2025/week4-memory/filter-more/)** – BMP images transformations such as grayscale, reflect, blur, and edge in C (CS50).  
+- **[Harvard CS50 - Week 4 - Filter More Problem Set](https://github.com/ricardodelfino/harvard-cs50-2025/tree/main/week4-memory/filter-more)** – BMP images transformations such as grayscale, reflect, blur, and edge in C (CS50).  
 
 ---
 
