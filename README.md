@@ -39,4 +39,4 @@ Here you'll find projects from **CS50**, personal coding projects and experiment
 [www.atacadosuplemento.com.br](https://atacadosuplemento.com.br)
 
 ## 🔗 Connect
-- LinkedIn: [ricardodelfino](https://www.linkedin.com/in/ricardodelfino)  
+- LinkedIn: [ricardodelfino](https://www.linkedin.com/in/ricardods)  
