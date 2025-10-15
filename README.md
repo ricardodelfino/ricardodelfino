@@ -1,6 +1,6 @@
 # Hi there, I'm Ricardo
 
-**Aspiring Back-End Developer | CS50 Student | Freedom Tech Enthusiast**
+**Aspiring Developer | CS50 Student | Freedom Tech Enthusiast**
 
 Here you'll find projects from **Harvard's CS50**, personal coding experiments, and open-source contributions.
 
